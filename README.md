@@ -1,5 +1,9 @@
 # Boston
+
 Repo for the CL+B FEST Boston Node
+
+* Check us out online at: [https://clbfest.github.io/Boston](https://clbfest.github.io/Boston)
+* Hack with us at: [https://github.com/CLBFest/Boston](https://github.com/CLBFest/Boston)
 
 ## Getting Started
 
