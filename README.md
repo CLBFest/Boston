@@ -1,9 +1,18 @@
 # Boston
 
-Repo for the CL+B FEST Boston Node
+This is the working event repo for the CL+B FEST Boston Node.  We will be using this repository for day-to-day information on operations, logistics and to provide supporting data or other information for participants in this event.
 
 * Check us out online at: [https://clbfest.github.io/Boston](https://clbfest.github.io/Boston)
 * Hack with us at: [https://github.com/CLBFest/Boston](https://github.com/CLBFest/Boston)
+
+## Event Information
+
+* Event brochure page: https://law.mit.edu/clb-fest
+* Register to participate online at: [https://clbfest.eventbrite.com](https://clbfest.eventbrite.com)
+* More details about this global distributed event at: [www.legalhackers.org/clbfest2018](www.legalhackers.org/clbfest2018)
+* Apply to participate in the Boston/Cambridge Node at: [https://goo.gl/forms/gimyBYQaEr5ZxhTE2](https://goo.gl/forms/gimyBYQaEr5ZxhTE2)
+* Twitter: #clbfest2018
+
 
 ## Getting Started
 
