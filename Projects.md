@@ -3,13 +3,13 @@
 
 --------
 
-* **Kevin Sandoval - Project Idea: 
+* **Kevin Sandoval - Project Idea: HAGO** 
 
 HAGO- the decentralized Amazon for artistic assets. 
 
 --------
 
-* **Nordo Nissi - Project Idea:  
+* **Nordo Nissi - Project Idea: Validate Voter Rolls**
 
 The use of blockchain to ease voter registration and validate voter rolls.
 
