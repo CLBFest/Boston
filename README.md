@@ -1,4 +1,4 @@
-# Boston
+# CL+B Fest Boston Node
 
 This is the working event repo for the CL+B FEST Boston Node.  We will be using this repository for day-to-day information on operations, logistics and to provide supporting data or other information for participants in this event.
 
