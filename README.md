@@ -32,4 +32,4 @@ This is the working event repo for the CL+B FEST Boston Node.  We will be using 
 
 The following are project ideas from event participants.  You can join a team to work on these projects during the Hack Track of the event.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQbAna8vSulU-K5WKnjr-hAJRG_R4HTRaZSy4d35taAhc5UehuBM6D5dJtczKGpi0kX4nKE7f7kn8vB/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQbAna8vSulU-K5WKnjr-hAJRG_R4HTRaZSy4d35taAhc5UehuBM6D5dJtczKGpi0kX4nKE7f7kn8vB/pubhtml?widget=true&amp;headers=false" width="600"></iframe>
