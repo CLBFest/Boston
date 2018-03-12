@@ -13,16 +13,11 @@ This is the working event repo for the CL+B FEST Boston Node.  We will be using 
 * Apply to participate in the CL+B Fest Boston/Cambridge Node at: [https://goo.gl/forms/gimyBYQaEr5ZxhTE2](https://goo.gl/forms/gimyBYQaEr5ZxhTE2)
 * Twitter: #clbfest2018
 
-
-# High Level Schedule
-
-Registered participants will receive the specific schedule and meeting activity location details at our node.  
-
-## Learn + Discuss Sessions
+# Learn + Discuss Sessions
 
 The learning and discussion sessions will take place from 2:00 PM Friday to 6:00 PM Saturday, March 17th at the MIT Media Lab.  To participate in this track, please be sure to complete the CL+B Fest Boston-MIT Node application form at: [https://goo.gl/forms/gimyBYQaEr5ZxhTE2](https://goo.gl/forms/gimyBYQaEr5ZxhTE2)
 
-**Friday, March 16th**
+## Friday, March 16th
 
 * 2:00 PM - Welcome and Introductions
 * 2:30 PM - Facilitated Charrette with Sloan Fellows on XBRL+GAAP for Automated Business Organizations
@@ -32,7 +27,7 @@ The learning and discussion sessions will take place from 2:00 PM Friday to 6:00
 
 There will be an informal gathering at a local pub or resteraunt following the programmed sessions.
 
-**Saturday, March 17th**
+## Saturday, March 17th
 
 * Saturday morning will be focused on CL+B Hack Track Projects with the [Bitcoin Expo Hackathon](http://mitbitcoinexpo.org/hackathon.html)
 * 1:00 PM - Welcome and General Discussion
@@ -42,7 +37,7 @@ There will be an informal gathering at a local pub or resteraunt following the p
 
 There will be an informal gathering at a local pub or resteraunt following the programmed sessions.
 
-## Hack Track with the MIT Bitcoin Expo
+# Hack Track with the MIT Bitcoin Expo
 
 **Hack the Law With Us**
 
@@ -71,7 +66,7 @@ The project ideas at the link below are from event participants. Project descrip
 
 * **Project Ideas:** [https://clbfest.github.io/Boston/Projects.html](https://clbfest.github.io/Boston/Projects.html)
 
-### How to Participate in the Sovereign Legal Identity Challenge
+## How to Participate in the Sovereign Legal Identity Challenge
 
 The Boston Node of CL+B Fest will also be the global home base for organizers of the Sovereign Legal Identity Challenge.  
 
