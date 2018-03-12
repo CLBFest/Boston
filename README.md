@@ -27,14 +27,15 @@ The Boston Node's "Hack Track" will be conducted in partnership with the MIT Bit
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BvJ8vIfa85M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## How to Participate in the Sovereign Legal Identity Challenge
-
-The Boston Node of CL+B Fest will be the global home base for organizers of the Sovereign Legal Identity Challenge.  
-
-* Challenge information page: [https://mitmedialab.github.io/SLIC](https://mitmedialab.github.io/SLIC)
 
 ## Local Project Ideas
 
 The project ideas at the link below are from event participants. Project descriptions will be modified over time as teams evolve the ideas.  You can join a team to work on these projects during the Hack Track of the event.  Projects will be added as new participants are accepted.
 
 ### [https://clbfest.github.io/Boston/Projects.html](https://clbfest.github.io/Boston/Projects.html)
+
+## How to Participate in the Sovereign Legal Identity Challenge
+
+The Boston Node of CL+B Fest will also be the global home base for organizers of the Sovereign Legal Identity Challenge.  
+
+* Challenge information page: [https://mitmedialab.github.io/SLIC](https://mitmedialab.github.io/SLIC)
