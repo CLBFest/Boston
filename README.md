@@ -17,6 +17,19 @@ This is the working event repo for the CL+B FEST Boston Node.  We will be using 
 
 The Boston Node's "Hack Track" will be conducted in partnership with the MIT Bitcoin Expo Hackathon event, which is also happening this weekend.  The CL+B Fest Hack Track provides simple ways for participants to propose relevant projects of any kind relevant to the themes of the CL+B Fest event.  In addition, any team may choose to do a project that competes for an organized general CL+B Fest "Challenge".  To learn about the several challenges, see: [http://legalhackers.org/clbfest2018-hack/](http://legalhackers.org/clbfest2018-hack/)
 
+## High Level Schedule
+
+Registered participants will receive the specific schedule and meeting activity location details at our node.  
+
+### Friday Hackathon
+
+The "Hack" track sessions will take place from 9:00 AM Friday, March 16 to 10:00 AM Saturday, March 17, 2018 at the MIT Sloan School of Management, in partnership with the MIT Bitcoin Expo Hackathon event. 
+
+### Saturday Learn + Discuss
+
+The learning and discussion sessions will take place from 2:00 PM Friday to 6:00 PM Saturday, March 17th at the MIT Media Lab.
+
+
 ## Getting Started
 
 **How to Create a GitHub Repository and Publish a Basic Project Website**
@@ -34,7 +47,7 @@ The project ideas at the link below are from event participants. Project descrip
 
 ### [https://clbfest.github.io/Boston/Projects.html](https://clbfest.github.io/Boston/Projects.html)
 
-## How to Participate in the Sovereign Legal Identity Challenge
+### How to Participate in the Sovereign Legal Identity Challenge
 
 The Boston Node of CL+B Fest will also be the global home base for organizers of the Sovereign Legal Identity Challenge.  
 
