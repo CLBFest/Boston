@@ -37,7 +37,7 @@ There will be an informal gathering at a local pub or resteraunt following the p
 
 There will be an informal gathering at a local pub or resteraunt following the programmed sessions.
 
-# Hack Track with the MIT Bitcoin Expo
+# Hack Track in Partnership with the MIT Bitcoin Expo
 
 **Hack the Law With Us**
 
