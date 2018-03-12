@@ -35,6 +35,6 @@ The Boston Node of CL+B Fest will be the global home base for organizers of the 
 
 ## Local Project Ideas
 
-The following are project ideas from event participants.  You can join a team to work on these projects during the Hack Track of the event.
+The project ideas at the link below are from event participants. Project descriptions will be modified over time as teams evolve the ideas.  You can join a team to work on these projects during the Hack Track of the event.  Projects will be added as new participants are accepted.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQbAna8vSulU-K5WKnjr-hAJRG_R4HTRaZSy4d35taAhc5UehuBM6D5dJtczKGpi0kX4nKE7f7kn8vB/pubhtml?widget=true&amp;headers=false" width="600"></iframe>
+### [https://clbfest.github.io/Boston/Projects.html](https://clbfest.github.io/Boston/Projects.html)
