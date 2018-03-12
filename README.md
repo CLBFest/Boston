@@ -18,7 +18,7 @@ This is the working event repo for the CL+B FEST Boston Node.  We will be using 
 
 Registered participants will receive the specific schedule and meeting activity location details at our node.  
 
-## CLB Fest Learn + Discuss Sessions
+## Learn + Discuss Sessions
 
 The learning and discussion sessions will take place from 2:00 PM Friday to 6:00 PM Saturday, March 17th at the MIT Media Lab.  To participate in this track, please be sure to complete the CL+B Fest Boston-MIT Node application form at: [https://goo.gl/forms/gimyBYQaEr5ZxhTE2](https://goo.gl/forms/gimyBYQaEr5ZxhTE2)
 
@@ -42,7 +42,7 @@ There will be an informal gathering at a local pub or resteraunt following the p
 
 There will be an informal gathering at a local pub or resteraunt following the programmed sessions.
 
-## CLB Fest Hack Track 
+## Hack Track with the MIT Bitcoin Expo
 
 **Hack the Law With Us**
 
