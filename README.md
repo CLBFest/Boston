@@ -13,7 +13,7 @@ This is the working event repo for the CL+B FEST Boston Node.  We will be using 
 * Apply to participate in the Boston/Cambridge Node at: [https://goo.gl/forms/gimyBYQaEr5ZxhTE2](https://goo.gl/forms/gimyBYQaEr5ZxhTE2)
 * Twitter: #clbfest2018
 
-# Come Hack the Law With Us
+# Hack the Law With Us
 
 The Boston Node's "Hack Track" will be conducted in partnership with the MIT Bitcoin Expo Hackathon event, which is also happening this weekend.  The CL+B Fest Hack Track provides simple ways for participants to propose relevant projects of any kind relevant to the themes of the CL+B Fest event.  In addition, any team may choose to do a project that competes for an organized general CL+B Fest "Challenge".  To learn about the several challenges, see: [http://legalhackers.org/clbfest2018-hack/](http://legalhackers.org/clbfest2018-hack/)
 
