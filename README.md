@@ -37,6 +37,16 @@ There will be an informal gathering at a local pub or resteraunt following the p
 
 There will be an informal gathering at a local pub or resteraunt following the programmed sessions.
 
+### Potential Unconference Breakout Topics
+
+* The [Asilomar AI Principles](https://github.com/CLBFest/Boston/blob/master/Principles-for-AI.md)
+* [Sovereign Legal Identity](https://mitmedialab.github.io/SLIC) for individuals
+* More potential discussion topics to follow.  
+
+Propose more discussion topics at: [https://goo.gl/forms/gimyBYQaEr5ZxhTE2](https://goo.gl/forms/gimyBYQaEr5ZxhTE2)
+
+Final topics will be determined through an unconference format by those present at the event.
+
 # Hack Track in Partnership with the MIT Bitcoin Expo
 
 **Hack the Law With Us**
