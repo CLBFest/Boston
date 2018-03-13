@@ -39,8 +39,8 @@ There will be an informal gathering at a local pub or resteraunt following the p
 
 ### Potential Unconference Breakout Topics
 
-* The [Asilomar AI Principles](https://github.com/CLBFest/Boston/blob/master/Principles-for-AI.md)
 * [Sovereign Legal Identity](https://mitmedialab.github.io/SLIC) for individuals
+* The [Asilomar AI Principles](https://clbfest.github.io/Boston/Principles-for-AI.html) participant [reactions](https://clbfest.github.io/Boston/Principles-for-AI.html#selected-reactions-to-the-principles) and discussion of potential frameworks of principles for AI related more specifically to legal issues/options/opportunities.
 * More potential discussion topics to follow.  
 
 Propose more discussion topics at: [https://goo.gl/forms/gimyBYQaEr5ZxhTE2](https://goo.gl/forms/gimyBYQaEr5ZxhTE2)
