@@ -11,6 +11,7 @@ This is the working event repo for the CL+B FEST Boston Node.  We will be using 
 * Register to participate online at: [https://clbfest.eventbrite.com](https://clbfest.eventbrite.com)
 * More details about this global distributed event at: [www.legalhackers.org/clbfest2018](www.legalhackers.org/clbfest2018)
 * Apply to participate in the CL+B Fest Boston/Cambridge Node at: [https://goo.gl/forms/gimyBYQaEr5ZxhTE2](https://goo.gl/forms/gimyBYQaEr5ZxhTE2)
+* CL+B Fest [Code of Conduct](https://clbfest.github.io/Boston/CodeOfConduct.html)
 * Twitter: #clbfest2018
 
 # Learn + Discuss Sessions
