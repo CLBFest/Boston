@@ -14,6 +14,7 @@ This is the working event repo for the CL+B FEST Boston Node.  We will be using 
 * CL+B Fest [Code of Conduct](https://clbfest.github.io/Boston/CodeOfConduct.html)
 * Twitter: #clbfest2018
 
+
 # Event Schedule
 
 ## Friday, March 16th (MIT Media Lab - 5th Floor*)
@@ -65,7 +66,7 @@ Final topics will be determined through an unconference format by those present 
 
 The Boston Node's "Hack Track" will be held at Cambridge Innovation Center: 1 Broadway (5th Floor Venture Cafe Space), Cambridge MA 02142.  The CL+B Fest Hack Track provides simple ways for participants to propose relevant projects of any kind relevant to the themes of the CL+B Fest event.  In addition, any team may choose to do a project that competes for an organized general CL+B Fest "Challenge".  To learn about the several challenges, see: [http://legalhackers.org/clbfest2018-hack/](http://legalhackers.org/clbfest2018-hack/)
 
-Doors will open for participants in the Hack Track at 11:00 AM on Saturday, March 17th.  Project pitches and team formation will take place from 12:00 PM - 1:00 PM and active work on Hack Track projects will take place from 1:00 PM on Saturday, March 17, 2018 to 1:00 PM on Sunday, March 18th.  Unfortunately, we will not be able to accomodate teams overnight at the event venue.  Project presentations on Sunday by participating teams may be located at a different area venue.
+Doors will open for participants in the Hack Track at 10:00 AM on Saturday, March 17th.  Project pitches and team formation will take place from 12:00 PM - 1:00 PM and active work on Hack Track projects will take place from 1:00 PM on Saturday, March 17, 2018 to 1:00 PM on Sunday, March 18th.  Unfortunately, we will not be able to accomodate teams overnight at the event venue.  Project presentations on Sunday by participating teams may be located at a different area venue.
 
 ### Getting Started
 
@@ -89,7 +90,7 @@ The project ideas at the link below are from event participants. Project descrip
 
 The Boston Node of CL+B Fest also hosts several organizers of the Sovereign Legal Identity Challenge and teams working on projects for this challenge will operate from event nodes around the world.
 
-Prize: There will be a 0.5 ETH prize for the winner of this challenge, as well as an opportunity to present at the MIT Media Lab.
+**Prize: There will be a 0.5 ETH prize for the winner of this challenge, as well as an opportunity to present at the MIT Media Lab.
 
 * For more information on the Sovereign Legal Identity Challenge see: [https://mitmedialab.github.io/SLIC](https://mitmedialab.github.io/SLIC)
 
@@ -97,7 +98,7 @@ Prize: There will be a 0.5 ETH prize for the winner of this challenge, as well a
 
 The Boston Node of CL+B Fest also hosts several organizers of the Transactive Power Challenge and teams working on projects for this challenge will operate from event nodes around the world.  
 
-Prize: There will be a $500 cash prize for the winner of this challenge, as well as an opportunity to present at the MIT Media Lab.
+**Prize: There will be a $500 cash prize for the winner of this challenge, as well as an opportunity to present at the MIT Media Lab.
 
 * For more information on the Transactive Power Challenge see: [http://transactivepower.com](http://transactivepower.com)
 
