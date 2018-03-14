@@ -51,11 +51,9 @@ Final topics will be determined through an unconference format by those present 
 
 **Hack the Law With Us**
 
-The Boston Node's "Hack Track" will be conducted in partnership with the MIT Bitcoin Expo Hackathon event, which is also happening this weekend.  The CL+B Fest Hack Track provides simple ways for participants to propose relevant projects of any kind relevant to the themes of the CL+B Fest event.  In addition, any team may choose to do a project that competes for an organized general CL+B Fest "Challenge".  To learn about the several challenges, see: [http://legalhackers.org/clbfest2018-hack/](http://legalhackers.org/clbfest2018-hack/)
+The Boston Node's "Hack Track" will be held at Cambridge Innovation Center: 1 Broadway (5th Floor Venture Cafe Space), Cambridge MA 02142.  The CL+B Fest Hack Track provides simple ways for participants to propose relevant projects of any kind relevant to the themes of the CL+B Fest event.  In addition, any team may choose to do a project that competes for an organized general CL+B Fest "Challenge".  To learn about the several challenges, see: [http://legalhackers.org/clbfest2018-hack/](http://legalhackers.org/clbfest2018-hack/)
 
-The "Hack" track sessions will take place from Friday morning, March 16 to Saturday morning, March 17, 2018 in partnership with the MIT Bitcoin Expo Hackathon event. The CL+B Fest hack-track will take place at and follow the schedule of the MIT Bitcoin Expo Hackathon, available at:
-
-* **Hackathon Schedule:** [http://mitbitcoinexpo.org/hackathon.html](http://mitbitcoinexpo.org/hackathon.html)
+Doors will open for participants in the Hack Track at 11:00 AM on Saturday, March 17th.  Project pitches and team formation will take place from 12:00 PM - 1:00 PM and active work on Hack Track projects will take place from 1:00 PM on Saturday, March 17, 2018 to 1:00 PM on Sunday, March 18th.  Unfortunately, we will not be able to accomodate teams overnight at the event venue.  
 
 ### Getting Started
 
@@ -78,8 +76,8 @@ The project ideas at the link below are from event participants. Project descrip
 
 ## How to Participate in the Sovereign Legal Identity Challenge
 
-The Boston Node of CL+B Fest will also be the global home base for organizers of the Sovereign Legal Identity Challenge.  
+The Boston Node of CL+B Fest also hosts several organizers for organizers the Sovereign Legal Identity Challenge and teams working on projects for this challenge will operate from event nodes around the world.  
 
-* Challenge information page: [https://mitmedialab.github.io/SLIC](https://mitmedialab.github.io/SLIC)
+* For more information on the Sovereign Legal Identity Challenge see: [https://mitmedialab.github.io/SLIC](https://mitmedialab.github.io/SLIC)
 
 
