@@ -1,4 +1,4 @@
-**2018 Computational Law and Blockchain (“CL+B”) Festival Code of Conduct**
+**2018 Computational Law and Blockchain (“CL+B”) Festival Code of Conduct**     
 **BOSTON-MIT NODE**
 
 Welcome to the 2018 Computational Law & Blockchain Festival! We’re excited to learn, hack, a2018 Computational Law and Blockchain (“CL+B”) nd discuss with you over the course of the weekend. This code of conduct is designed to create a fun, safe, and welcoming environment for all participants, and to set enforceable ground rules for participation in the Festival. This Code of Conduct applies to the Boston-MIT node of the Festival, not any other node.
