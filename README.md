@@ -52,7 +52,7 @@ Final topics will be determined through an unconference format by those present 
 
 The Boston Node's "Hack Track" will be held at Cambridge Innovation Center: 1 Broadway (5th Floor Venture Cafe Space), Cambridge MA 02142.  The CL+B Fest Hack Track provides simple ways for participants to propose relevant projects of any kind relevant to the themes of the CL+B Fest event.  In addition, any team may choose to do a project that competes for an organized general CL+B Fest "Challenge".  To learn about the several challenges, see: [http://legalhackers.org/clbfest2018-hack/](http://legalhackers.org/clbfest2018-hack/)
 
-Doors will open for participants in the Hack Track at 11:00 AM on Saturday, March 17th.  Project pitches and team formation will take place from 12:00 PM - 1:00 PM and active work on Hack Track projects will take place from 1:00 PM on Saturday, March 17, 2018 to 1:00 PM on Sunday, March 18th.  Unfortunately, we will not be able to accomodate teams overnight at the event venue.  
+Doors will open for participants in the Hack Track at 11:00 AM on Saturday, March 17th.  Project pitches and team formation will take place from 12:00 PM - 1:00 PM and active work on Hack Track projects will take place from 1:00 PM on Saturday, March 17, 2018 to 1:00 PM on Sunday, March 18th.  Unfortunately, we will not be able to accomodate teams overnight at the event venue.  Project presentations on Sunday by participating teams may be located at a different area venue.
 
 ### Getting Started
 
