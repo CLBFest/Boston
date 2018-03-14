@@ -14,11 +14,9 @@ This is the working event repo for the CL+B FEST Boston Node.  We will be using 
 * CL+B Fest [Code of Conduct](https://clbfest.github.io/Boston/CodeOfConduct.html)
 * Twitter: #clbfest2018
 
-# Learn + Discuss Sessions
+# Event Schedule
 
-The learning and discussion sessions will take place from 2:00 PM Friday to 6:00 PM Saturday, March 17th at the MIT Media Lab.  To participate in this track, please be sure to complete the CL+B Fest Boston-MIT Node application form at: [https://goo.gl/forms/gimyBYQaEr5ZxhTE2](https://goo.gl/forms/gimyBYQaEr5ZxhTE2)
-
-## Friday, March 16th
+## Friday, March 16th (MIT Media Lab - 5th Floor*)
 
 * 2:00 PM - Welcome and Introductions
 * 2:30 PM - Facilitated Charrette with Sloan Fellows on XBRL+GAAP for Automated Business Organizations
@@ -28,10 +26,10 @@ The learning and discussion sessions will take place from 2:00 PM Friday to 6:00
 
 There will be an informal gathering at a local pub or resteraunt following the programmed sessions.
 
-## Saturday, March 17th
+## Saturday, March 17th (CIC - 5th Floor*)
 
 * 10:00 AM - Doors Open
-* 01:00 PM - Welcome and General Discussion
+* 01:00 PM - Start Hackathon
 * 01:15 PM - Design Thinking Workshop
 * 02:00 PM - Unconference Style Breakout Discussion Groups (round 1)
 * 03:30 PM - Unconference Style Breakout Discussion Groups (round 2)
@@ -39,7 +37,19 @@ There will be an informal gathering at a local pub or resteraunt following the p
 
 There will be an informal gathering at a local pub or resteraunt following the programmed sessions.
 
-### Potential Unconference Breakout Topics
+## Sunday, March 18th (Media Lab - 5th Floor*)
+
+* 1:00 PM - Teams Present
+* 2:00 PM - Discussion on A.I. Principles
+
+* *The MIT Media Lab is located at 75 Amherst St, Cambridge, MA 02139*
+* *CIC is located at 1 Broadway, Cambridge, MA 02142*
+
+# Learn + Discuss Sessions
+
+The learning and discussion sessions will take place from 2:00 PM Friday to 3:00 PM Sunday, March 18th at the MIT Media Lab.  To participate in this track, please be sure to complete the CL+B Fest Boston-MIT Node application form at: [https://goo.gl/forms/gimyBYQaEr5ZxhTE2](https://goo.gl/forms/gimyBYQaEr5ZxhTE2)
+
+## Potential Unconference Breakout Topics
 
 * [Sovereign Legal Identity](https://mitmedialab.github.io/SLIC) for individuals
 * The [Asilomar AI Principles](https://clbfest.github.io/Boston/Principles-for-AI.html) participant [reactions](https://clbfest.github.io/Boston/Principles-for-AI.html#selected-reactions-to-the-principles) and discussion of potential frameworks of principles for AI related more specifically to legal issues/options/opportunities.
