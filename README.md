@@ -30,10 +30,12 @@ There will be an informal gathering at a local pub or resteraunt following the p
 
 ## Saturday, March 17th
 
-* 1:00 PM - Welcome and General Discussion
-* 2:00 PM - Unconference Style Breakout Discussion Groups (round 1)
-* 3:30 PM - Unconference Style Breakout Discussion Groups (round 2)
-* 5:00 PM - Discussion Group Report Outs
+* 10:00 AM - Doors Open
+* 01:00 PM - Welcome and General Discussion
+* 01:15 PM - Design Thinking Workshop
+* 02:00 PM - Unconference Style Breakout Discussion Groups (round 1)
+* 03:30 PM - Unconference Style Breakout Discussion Groups (round 2)
+* 05:00 PM - Discussion Group Report Outs
 
 There will be an informal gathering at a local pub or resteraunt following the programmed sessions.
 
