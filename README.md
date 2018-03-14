@@ -75,8 +75,17 @@ The project ideas at the link below are from event participants. Project descrip
 
 ## How to Participate in the Sovereign Legal Identity Challenge
 
-The Boston Node of CL+B Fest also hosts several organizers for organizers the Sovereign Legal Identity Challenge and teams working on projects for this challenge will operate from event nodes around the world.  
+The Boston Node of CL+B Fest also hosts several organizers of the Sovereign Legal Identity Challenge and teams working on projects for this challenge will operate from event nodes around the world.
+
+Prize: There will be a 0.5 ETH prize for the winner of this challenge, as well as an opportunity to present at the MIT Media Lab.
 
 * For more information on the Sovereign Legal Identity Challenge see: [https://mitmedialab.github.io/SLIC](https://mitmedialab.github.io/SLIC)
 
+## How to Participate in the Transactive Power Challenge 
+
+The Boston Node of CL+B Fest also hosts several organizers of the Transactive Power Challenge and teams working on projects for this challenge will operate from event nodes around the world.  
+
+Prize: There will be a $500 cash prize for the winner of this challenge, as well as an opportunity to present at the MIT Media Lab.
+
+* For more information on the Transactive Power Challenge see: [http://transactivepower.com](http://transactivepower.com)
 
