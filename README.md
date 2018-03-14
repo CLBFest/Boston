@@ -29,7 +29,6 @@ There will be an informal gathering at a local pub or resteraunt following the p
 
 ## Saturday, March 17th
 
-* Saturday morning will be focused on CL+B Hack Track Projects with the [Bitcoin Expo Hackathon](http://mitbitcoinexpo.org/hackathon.html)
 * 1:00 PM - Welcome and General Discussion
 * 2:00 PM - Unconference Style Breakout Discussion Groups (round 1)
 * 3:30 PM - Unconference Style Breakout Discussion Groups (round 2)
@@ -47,7 +46,7 @@ Propose more discussion topics at: [https://goo.gl/forms/gimyBYQaEr5ZxhTE2](http
 
 Final topics will be determined through an unconference format by those present at the event.
 
-# Hack Track in Partnership with the MIT Bitcoin Expo
+# Hack Track 
 
 **Hack the Law With Us**
 
@@ -66,7 +65,6 @@ For those who will be working on projects as part of the CL+B Fest Hack Track, p
 * Video Embed: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BvJ8vIfa85M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 ### Local Project Ideas
 
