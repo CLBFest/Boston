@@ -42,8 +42,8 @@ There will be an informal gathering at a local pub or resteraunt following the p
 * 1:00 PM - Teams Present
 * 2:00 PM - Discussion on A.I. Principles
 
-* *The MIT Media Lab is located at 75 Amherst St, Cambridge, MA 02139*
-* *CIC is located at 1 Broadway, Cambridge, MA 02142*
+*The MIT Media Lab is located at 75 Amherst St, Cambridge, MA 02139*
+*CIC is located at 1 Broadway, Cambridge, MA 02142*
 
 # Learn + Discuss Sessions
 
