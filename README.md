@@ -56,6 +56,10 @@ The learning and discussion sessions will take place from 2:00 PM Friday to 3:00
 * The [Asilomar AI Principles](https://clbfest.github.io/Boston/Principles-for-AI.html) participant [reactions](https://clbfest.github.io/Boston/Principles-for-AI.html#selected-reactions-to-the-principles) and discussion of potential frameworks of principles for AI related more specifically to legal issues/options/opportunities.
 * More potential discussion topics to follow.  
 
+**Key Scenarios and Fact Patterns**
+
+We are adding resources and links on a rolling basis to help catalyze ideas and support development of projects on our challenge wiki, here: [https://github.com/mitmedialab/SLIC/wiki](https://github.com/mitmedialab/SLIC/wiki) where your team is hacking.  We are also collecting scenarios to help think about future fact patterns and situations as a potential focus for projects or discussions at: [https://mitmedialab.github.io/SLIC/Scenarios.html](https://mitmedialab.github.io/SLIC/Scenarios.html).
+
 Propose more discussion topics at: [https://goo.gl/forms/gimyBYQaEr5ZxhTE2](https://goo.gl/forms/gimyBYQaEr5ZxhTE2)
 
 Final topics will be determined through an unconference format by those present at the event.
