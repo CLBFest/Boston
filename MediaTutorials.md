@@ -1,10 +1,11 @@
 # YouTube Live and Hangout OnAir
 
-Tutorial on how to create, schedule and manage Hangout OnAir livestream events with YouTube Live.
+For those who will be setting up livestreams for CL+B Fest nodes, this tutorial demonstrates YouTube Live to create, schedule and manage Hangout OnAir livestream events.
 
-* Direct Link to Video: [https://youtu.be/4MAeNnZO4Is](https://youtu.be/4MAeNnZO4Is)
+* Direct Link to Video: [http://youtu.be/2_opA7TLnZk](http://youtu.be/2_opA7TLnZk)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4MAeNnZO4Is" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/2_opA7TLnZk" frameborder="0" allowfullscreen></iframe>
+
 
 # GitHub Repositories and Websites
 
