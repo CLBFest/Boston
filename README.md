@@ -1,5 +1,7 @@
 # CL+B Fest Boston Node
 
+<img width="300" alt="screen shot 2018-02-13 at 3 00 36 pm" src="https://user-images.githubusercontent.com/2357755/36170884-bda9a61a-10ce-11e8-8bc2-1207a0dac997.png">
+
 This is the working event repo for the CL+B FEST Boston Node.  We will be using this repository for day-to-day information on operations, logistics and to provide supporting data or other information for participants in this event.
 
 * Check us out online at: [https://clbfest.github.io/Boston](https://clbfest.github.io/Boston)
