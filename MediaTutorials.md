@@ -6,6 +6,8 @@ For organizers who will be setting up livestreams for CL+B Fest nodes, this tuto
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2_opA7TLnZk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+------------------------
+
 # GitHub Repositories and Websites
 
 For those who will be working on projects as part of the CL+B Fest Hack Track, please review the following:
