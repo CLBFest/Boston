@@ -108,7 +108,7 @@ The Boston Node of CL+B Fest also hosts several organizers of the Transactive Po
 
 * For more information on the Transactive Power Challenge see: [http://transactivepower.com](http://transactivepower.com)
 
-# Boston-MIT Node Sponsor
+# Sponsor
 
 We are grateful to our sponsor for the Boston-MIT Node of Computational Law + Blockchain Festival.  Special thanks to Brian Ulicy of Thomson Reuters Labs for his creative brainstorming and support of this special occassion! 
 
