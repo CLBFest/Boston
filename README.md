@@ -60,7 +60,7 @@ The learning and discussion sessions will take place from 2:00 PM Friday to 3:00
 
 **Key Scenarios and Fact Patterns**
 
-We are adding resources and links on a rolling basis to help catalyze ideas and support development of projects on our challenge wiki, here: [https://github.com/mitmedialab/SLIC/wiki](https://github.com/mitmedialab/SLIC/wiki) where your team is hacking.  We are also collecting scenarios to help think about future fact patterns and situations as a potential focus for projects or discussions at: [https://mitmedialab.github.io/SLIC/Scenarios.html](https://mitmedialab.github.io/SLIC/Scenarios.html).
+We are adding resources and links on a rolling basis to help catalyze ideas and support development of projects on our challenge including a collection of scenarios to help think about future fact patterns and situations as a potential focus for projects or discussions at: [https://mitmedialab.github.io/SLIC/Scenarios.html](https://mitmedialab.github.io/SLIC/Scenarios.html).
 
 Propose more discussion topics at: [https://goo.gl/forms/gimyBYQaEr5ZxhTE2](https://goo.gl/forms/gimyBYQaEr5ZxhTE2)
 
