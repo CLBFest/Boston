@@ -16,6 +16,9 @@ This is the working event repo for the CL+B FEST Boston-MIT Node.  We will be us
 * CL+B Fest [Code of Conduct](https://clbfest.github.io/Boston/CodeOfConduct.html)
 * Twitter: #clbfest2018
 
+**Online Streaming**
+
+We'll be posting links to upcoming videos [here](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw/videos?live_view=502&shelf_id=1&sort=dd&view=2) and if you miss an event when it is streaming live, you can see past livestream videos [here](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw/videos?view=2&live_view=503&flow=grid)
 
 # Event Schedule
 
