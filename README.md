@@ -109,7 +109,7 @@ The Boston Node of CL+B Fest also hosts several organizers of the Sovereign Lega
 
 The Boston Node of CL+B Fest also hosts several organizers of the Transactive Power Challenge and teams working on projects for this challenge will operate from event nodes around the world.  
 
-**Prize: There will be a $500 cash prize for the winner of this challenge, as well as an opportunity to present at the MIT Media Lab.
+**Prize: There will be a $250 cash prize for the winner of this challenge, as well as an opportunity to present at the MIT Media Lab.
 
 * For more information on the Transactive Power Challenge see: [http://transactivepower.com](http://transactivepower.com)
 
