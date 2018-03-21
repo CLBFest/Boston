@@ -6,6 +6,8 @@ For organizers who will be setting up livestreams for CL+B Fest nodes, this tuto
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2_opA7TLnZk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+* If you are a Zoom Webinar user, it is possible to stream directly to YouTube live.  Here is the documentation: [https://support.zoom.us/hc/en-us/articles/115000350446-Streaming-a-Webinar-on-YouTube-Live](https://support.zoom.us/hc/en-us/articles/115000350446-Streaming-a-Webinar-on-YouTube-Live)
+
 ------------------------
 
 # GitHub Repositories and Websites
